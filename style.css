@@ -1,0 +1,17 @@
+span{
+    color: white;
+}
+
+
+
+.body{
+    background-size: cover;
+    background-position: center;
+    background-image: url("bac.jpg");
+}
+
+#myCanvas{
+    border-style: ridge;
+    background-color: orangered;
+    border-width: 20px;
+}
